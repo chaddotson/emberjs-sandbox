@@ -7,7 +7,6 @@
   </head>
   <body>
     <script type="text/x-handlebars" data-template-name="todos">
-
         <section id="todoapp">
           <header id="header">
             <h1>todos</h1>
@@ -17,7 +16,7 @@
           <section id="main">
             <ul id="todo-list">
               {{#each}}
-                <li>
+                <li {{bind-attr class="isCompleted:completed"}}>
                   <input type="checkbox" class="toggle">
                   <label>{{title}}</label><button class="destroy"></button>
                 </li>
