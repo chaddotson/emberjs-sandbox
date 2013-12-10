@@ -1,1 +1,1 @@
-Starting - http://emberjs.com/guides/getting-started/deleting-todos/
+Starting - http://emberjs.com/guides/getting-started/adding-child-routes/
