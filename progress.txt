@@ -1,1 +1,1 @@
-Starting - http://emberjs.com/guides/getting-started/creating-a-new-model/
+Starting - http://emberjs.com/guides/getting-started/deleting-todos/
